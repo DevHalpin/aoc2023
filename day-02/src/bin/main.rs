@@ -1,6 +1,6 @@
 use std::fs;
-use starter::part1;
-use starter::part2;
+use day2::part1;
+use day2::part2;
 
 
 fn main() {
